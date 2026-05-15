@@ -1,0 +1,1 @@
+SELECT "Id", "Username", "Email", "Subscription" FROM "Users" ORDER BY "Id";

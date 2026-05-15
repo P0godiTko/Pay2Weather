@@ -1,0 +1,16 @@
+# Ignore generated folders
+build/
+node_modules/
+bin/
+obj/
+
+# Do not ignore these files
+!package-lock.json
+!backend/*.csproj
+
+# Local env files
+.env
+
+# User-requested ignores
+README.md
+start-app.bat
